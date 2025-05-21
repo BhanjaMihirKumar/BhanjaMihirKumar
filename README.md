@@ -105,10 +105,10 @@
 
 <table>
  <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=Rahul-Sudo-ToxciByte&show_icons=true&theme=dark&locale=en" alt="Rahul-Sudo-ToxciByte" /></td>
+<!--   <td><img src="https://github-readme-stats.vercel.app/api?username=Rahul-Sudo-ToxciByte&show_icons=true&theme=dark&locale=en" alt="Rahul-Sudo-ToxciByte" /></td> -->
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Sudo-ToxciByte&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rahul-Sudo-ToxciByte" /></td>
  </tr>
 </table>
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-Sudo-ToxciByte&theme=tokyonight_duo&border_radius=10" alt="Rahul-Sudo-ToxciByte" /></p>
- </div>
+ </div> -->
