@@ -99,16 +99,4 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div><br/>
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-Sudo-ToxciByte&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<table>
- <tr>
-<!--   <td><img src="https://github-readme-stats.vercel.app/api?username=Rahul-Sudo-ToxciByte&show_icons=true&theme=dark&locale=en" alt="Rahul-Sudo-ToxciByte" /></td> -->
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Sudo-ToxciByte&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rahul-Sudo-ToxciByte" /></td>
- </tr>
-</table>
-<!-- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-Sudo-ToxciByte&theme=tokyonight_duo&border_radius=10" alt="Rahul-Sudo-ToxciByte" /></p>
- </div> -->
